@@ -48,6 +48,3 @@ Adoro trocar experiências, colaborar em projetos e conhecer outros devs.
 🌐 Portfólio: (https://github.com/Jessiellen/Portfolio-Dev) 
 
 ---
-
-Footer
-© 202
