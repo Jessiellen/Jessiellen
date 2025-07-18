@@ -44,7 +44,7 @@ Estudante do último ano da ETIC_Algarve, com foco em construir aplicações com
 
 ## 🤝 Vamos nos conectar!
 Adoro trocar experiências, colaborar em projetos e conhecer outros devs.  
-📫 [LinkedIn](https://www.linkedin.com/in/jessiellen-souza-7166a7258)  
+📫 LinkedIn: (https://www.linkedin.com/in/jessiellen-souza-7166a7258)  
 🌐 Portfólio: (https://github.com/Jessiellen/Portfolio-Dev) 
 
 ---
