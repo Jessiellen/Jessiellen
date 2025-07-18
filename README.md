@@ -1,4 +1,4 @@
-# JessiellenDev
+# Jessiellen
 Meu repositório de projetos e experiências como desenvolvedora web.
 # 👩‍💻 Olá, eu sou a Jessiellen!
 
